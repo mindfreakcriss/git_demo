@@ -1,5 +1,6 @@
 <?php
 
+echp tetete
 echo :::dfdfd
 echO '''wddf
 echo "hello world";
